@@ -1,0 +1,12 @@
+{
+  "itemGroup.textplaceholderapi": "Example Mod Tab",
+  "block.textplaceholderapi.example_block": "Example Block",
+  "item.textplaceholderapi.example_item": "Example Item",
+  "textplaceholderapi.configuration.title": "Text Placeholder API Configs",
+  "textplaceholderapi.configuration.section.textplaceholderapi.common.toml": "Text Placeholder API Configs",
+  "textplaceholderapi.configuration.section.textplaceholderapi.common.toml.title": "Text Placeholder API Configs",
+  "textplaceholderapi.configuration.items": "Item List",
+  "textplaceholderapi.configuration.logDirtBlock": "Log Dirt Block",
+  "textplaceholderapi.configuration.magicNumberIntroduction": "Magic Number Text",
+  "textplaceholderapi.configuration.magicNumber": "Magic Number"
+}
